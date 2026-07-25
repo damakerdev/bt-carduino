@@ -20,7 +20,8 @@ connect via any Bluetooth Serial Terminal app and use these keys:
 | **Turn Left** | `L` |
 | **Turn Right** | `R` |
 | **Stop** | `S` |
-| **Honk Horn** | `H` | *WILL ADD IN NEAR FUTURE*
+|[*WILL ADD IN NEAR FUTURE*]|..|
+| **Honk Horn** | `H` | 
 
 ## issues
 * lags if sent a lot of commands too fast
