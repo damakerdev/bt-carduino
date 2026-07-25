@@ -23,5 +23,11 @@ connect via any Bluetooth Serial Terminal app and use these keys:
 |[*WILL ADD IN NEAR FUTURE*]|..|
 | **Honk Horn** | `H` | 
 
+## picss
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4279cc66-2833-4ab6-9b43-248bca51e422" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/7e69a4fd-e85d-4994-8a69-eace5bd08995" />
+
+
 ## issues
 * lags if sent a lot of commands too fast
