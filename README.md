@@ -30,7 +30,7 @@ connect via any Bluetooth Serial Terminal app and use these keys:
 
 ## basic wiring diagram:
 
-[wiring diagram](./include/img/WiringDiagram.png)
+<img width="1355" height="937" alt="WiringDiagram" src="https://github.com/user-attachments/assets/f7f07d7d-50be-462f-939a-4be662940013" />
 
 
 ## issues
