@@ -33,5 +33,11 @@ connect via any Bluetooth Serial Terminal app and use these keys:
 <img width="1355" height="937" alt="WiringDiagram" src="https://github.com/user-attachments/assets/f7f07d7d-50be-462f-939a-4be662940013" />
 
 
+## flashing instructions [platformIO]
+1. Add the PlatformIO extension to vscode and open this repo folder in vscode.
+2. Connect the Arduino to your PC.
+3. Open the PlatformIO terminal and type ```pio run``` to compile the code.
+4. To upload it, type ```pio run --target upload``` 
+
 ## issues
 * lags if sent a lot of commands too fast
