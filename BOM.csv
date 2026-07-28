@@ -1,8 +1,8 @@
-Reference,Value,Datasheet,Footprint,Qty
-ARDUINO UNO REV3,ATmega328P,https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf,Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical,1
-"M1,M2,M3,M4",BO_MOTOR,,,4
-R1,3.2k,,,1
-R2,47k,,,1
-U1,HC-05,https://components101.com/sites/default/files/component_datasheet/HC-05%20Datasheet.pdf,HC-05:XCVR_HC-05,1
-U2,L298N,http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000240.pdf,Package_TO_SOT_THT:TO-220-15_P2.54x5.08mm_StaggerOdd_Lead4.58mm_Vertical,1
-WHEELS,,,,4
+Reference,Value,Datasheet,Footprint,Qty,Purchase Link
+ARDUINO UNO REV3,ATmega328P,https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf,Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical,1,https://store.arduino.cc/products/arduino-uno-rev3/
+"M1,M2,M3,M4",BO_MOTOR,,,4,https://www.amazon.in/SP-Electron-Reinforced-Robotics-Projects/dp/B0H66912XV/ref=sr_1_5?sr=8-5
+R1,3.2k,,,1,
+R2,47k,,,1,
+U1,HC-05,https://components101.com/sites/default/files/component_datasheet/HC-05%20Datasheet.pdf,HC-05:XCVR_HC-05,1,https://www.amazon.in/HC-05-Bluetooth-Module-10g/dp/B00X86U4RW
+U2,L298N,http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000240.pdf,Package_TO_SOT_THT:TO-220-15_P2.54x5.08mm_StaggerOdd_Lead4.58mm_Vertical,1,https://www.amazon.com/L298N-Motor-Driver-Controller-Board/dp/B0D95GBYQF
+WHEELS,,,,4,
