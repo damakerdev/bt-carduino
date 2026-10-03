@@ -23,13 +23,15 @@ connect via any Bluetooth Serial Terminal app and use these keys:
 |[*WILL ADD IN NEAR FUTURE*]|..|
 | **Honk Horn** | `H` | 
 
+### [demo video](https://youtube.com/shorts/UmVEe1pLmG0?si=vCcXfALKm4gk0cXe)
+
 ## picss
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4279cc66-2833-4ab6-9b43-248bca51e422" />
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/7e69a4fd-e85d-4994-8a69-eace5bd08995" />
 
 
-#### [demo video](https://www.youtube.com/shorts/mwLVNUrgyyc)
+
 ## basic wiring diagram:
 
 <img width="1355" height="937" alt="WiringDiagram" src="https://github.com/user-attachments/assets/f7f07d7d-50be-462f-939a-4be662940013" />
